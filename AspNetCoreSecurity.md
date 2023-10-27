@@ -2,7 +2,7 @@
 
 Cookies  for dummies 
 
-A cookie is a small piece of data that is stored in the user's website , and it have a lot of functions
+A cookie is a small piece of data that is stored in the user's website that is stored on http headers / response, and it have a lot of functions
 * Track User's Browsing Activity
 * Remembering login details
 * Track site visitor count (each cookie has a unique id)
@@ -18,3 +18,7 @@ SCENARIO:
 * The login page is where the authentication begins it can be a cookie or token
 * After you receive the cookie and login page you will be redirected to the web pages you want with the security context.
 * Now authorization will come because depending on your access level you can proceed or not on the desired web pages.
+
+
+
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/f766176d-df60-40b9-82fd-d51cd063f7c9)
