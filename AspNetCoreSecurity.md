@@ -21,4 +21,42 @@ SCENARIO:
 
 
 
-![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/f766176d-df60-40b9-82fd-d51cd063f7c9)
+
+
+*Now looking at the diagram*
+*First, user logins and send http request and the web server logic usually verify the credentials 
+* The server side retrieves the database credentials and then generate the SECURITY CONTEXT ( can be token or cookie)
+* Then forwarded again on the client side where it will be stored on the headers / response
+*  Authentication ( deserialize the cookie to get the security context)
+* Once we have the security context then we can tell that if the user's is authorize to access the page
+* 
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/d87f0805-1e8d-4044-87b6-4a9707f6a882)
+
+
+
+
+
+
+ 
+**ASP.NET CORE SECURITY CONTEXT**
+
+*Principal object (USER) - contains one or many identities
+Identity - Can be the access levels
+Claims - key that pairs your information
+
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/a96f746a-398c-408f-bb9b-eea78d40942d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
