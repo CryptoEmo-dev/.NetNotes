@@ -29,7 +29,7 @@ SCENARIO:
 * Then forwarded again on the client side where it will be stored on the headers / response
 *  Authentication ( deserialize the cookie to get the security context)
 * Once we have the security context then we can tell that if the user's is authorize to access the page
-* 
+  
 ![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/d87f0805-1e8d-4044-87b6-4a9707f6a882)
 
 
@@ -49,8 +49,10 @@ Claims - key that pairs your information
 
 
 
-
-
+ 
+**
+AUTHORIZATION ARCHITECTURE AND FLOW 
+**
 
 
 
