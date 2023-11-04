@@ -58,7 +58,16 @@ AUTHORIZATION ARCHITECTURE AND FLOW
 
 
 
+Cookie Implementation Example 
+Middleware as you can see here specifying the CookieName , login path on your program.cs
 
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/fcb4c20a-539e-4fdd-97ce-502fe18ad9cf)
+
+
+
+Now create the claims if the condition is true and will be redirected to the protected page 
+
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/cbfa145f-7357-4fbc-8d0c-52fcf947715c)
 
 
 
