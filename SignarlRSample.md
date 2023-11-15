@@ -1,6 +1,6 @@
 Notes and codes using SignalR building a CHATBOT
-
-Some important notes:
+**
+Some important notes:**
 This example is based on the ASP.NET SignalR and not on the ASP.NET Core SignalR
 
 Internet Explorer support
