@@ -46,10 +46,26 @@ Codes that loops the chatbox to reconnect after 5secs after being disconnected
 ![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/55897d7f-681b-41b7-990b-41e1fcc15c89)
 
 
+On SIGNARLR browsers usually block javascript so it won't be able to conncet to your api
+Example: https//api.example.com/chatHub -- where your SIGNALR codes reside 
+So you need to configure CORS configuration see figure below.
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/40e5a961-ce10-4509-bd3f-d089412404b7)
+Now it allows any fetch like GET & POST
+
+
+
+SEGMENTATION OF CLIENTS ON SENDING MESSAGE 
+ Clients.Group("General") .SendAsync("Hello!");  - To send msg on segmented group
+
+What to use groups for?
+* Chat rooms and channels
+* Topic subscriptions
+* Any other collection of connections
 
 
 
 
+  
 
 
 
