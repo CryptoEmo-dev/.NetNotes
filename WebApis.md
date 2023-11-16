@@ -1,4 +1,4 @@
-Notes from webapis , https  etc.
+Notes from webapis , https , CRUD EF , Etc.
 video:  https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-in-dot-net/http-in-a-nutshell?autoSkip=true&resume=false&u=89213594
 
 
@@ -55,9 +55,20 @@ Testing the API while adding handling errors would show you the exact errors and
 
 
 
+Asynchronous Actions 
+
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/cafc6be5-efe9-4319-9531-f9bc0c3c1f8c)
+
+Easy implementation of async methods on .net ( this can gives your web app performance benefits depending on the apis nature ) 
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/a3294390-c06a-4686-9bc7-17cfaaaa629d)
 
 
 
+
+Using EntitState.Modified
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/a8f880d9-42a8-4ee0-b5e5-37e6c2d78e39)
+
+![image](https://github.com/CryptoEmo-dev/.NetNotes/assets/123077155/5470dcdb-8d17-4a38-a542-1e43eae8593f)
 
 
 
